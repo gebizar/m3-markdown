@@ -9,3 +9,12 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# git clone #
+``` Git clone brings the repository down from the repository on git hub onto your local machine. This is the start of each project we have done so far ```
+
+* It can be used to clone repositories 
+  * It allows you to edit the master branch
+  * potentially allows you to create branches
+* I'm not entirely sure what else it does
+  * It's really freaking cool though.
